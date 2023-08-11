@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Rizki Maula**.\
 Saya seorang **Machine Learning Facillitator** di [Google Developer Student Clubs Universitas Sultan Ageng Tirtayasa](https://gdsc.community.dev/universitas-sultan-ageng-tirtayasa/).\
-Saya bertanggung jawab pada kualitas materi Machine Learning dengan dibekali [sertifikasi dari NVIDIA Deep Learning Institute](https://drive.google.com/drive/u/0/folders/1gmlXpMVT3hoJx-LFl5Tp0cYB1XS61lQe).\
+Saya bertanggung jawab pada kualitas materi Machine Learning dengan dibekali [sertifikasi dari NVIDIA Deep Learning Institute](https://courses.nvidia.com/certificates/c3831c3b980b468791856de52f06450a/).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rizkim65/) ku ya.
  
 <p align="left">
